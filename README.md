@@ -26,7 +26,7 @@
 
 ### 2. Desempeño por Categoría  
 #### 🏆 **Top 3 Categorías**  
-| Tienda   | Muebles  | Electrónicos | Juguetes |  
+| Tienda   | Muebles | Electrónicos | Juguetes |  
 |----------|---------|--------------|----------|  
 | Tienda 1 | 465     | 448          | 324      |  
 | Tienda 2 | 442     | 422          | 313      |  
@@ -53,12 +53,11 @@
 | *Otras*  | Microondas (60-62u)            | Electrónicos de bajo margen   |  
 
 ### 5. Costos Logísticos  
-| Tienda   | Costo Envío (USD) | Relación Costo/Ingreso |  
+| Tienda   | Costo Envío       | Relación Costo/Ingreso |  
 |----------|-------------------|------------------------|  
 | Tienda 1 | $26,018.61        | 2.26%                  |  
 | Tienda 4 | **$23,459.46**    | 2.26%                  |  
 
-![Relación Costos de Envío - Ingresos](https://via.placeholder.com/800x400.png?text=Gráfico+Costos+vs+Ingresos)  
 
 ---
 
