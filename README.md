@@ -77,4 +77,4 @@
 
 ---
 
-**Repositorio GitHub**: [alura-store-analysis](https://github.com/tu_usuario/alura-store-analysis)  
+**Repositorio GitHub**: https://github.com/lzepedainacap1982/Challenge_Alura_Store_G8
